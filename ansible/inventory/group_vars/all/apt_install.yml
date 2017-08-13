@@ -1,0 +1,10 @@
+---
+
+apt_install__packages:
+  - 'build-essential'
+  - 'cmake'
+  - 'automake'
+  - 'libtool'
+  - 'python2.7-dev'
+
+apt_install__state: 'latest'
