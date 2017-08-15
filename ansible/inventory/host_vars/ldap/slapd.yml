@@ -3,3 +3,4 @@
 slapd_pki: False
 slapd_anonymous_bind: True
 slapd_password_length: '8'
+slapd_ldapscripts: True
