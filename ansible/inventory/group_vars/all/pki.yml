@@ -1,5 +1,5 @@
 ---
 
-pki_enabled: True
+pki_enabled: False
 pki_download_extra: False
 pki_internal: False
