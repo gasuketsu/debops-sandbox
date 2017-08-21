@@ -16,6 +16,10 @@
 
 [debops_all_hosts]
 ldap ansible_connection=local
+workstation ansiblehost=192.168.56.60
 
 [debops_service_slapd]
+ldap ansible_connection=local
+
+[debops_service_nfs_server]
 ldap ansible_connection=local
